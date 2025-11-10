@@ -1,0 +1,105 @@
+doi,title,relevance_score,publication_year,cited_by_count
+https://doi.org/10.1109/access.2020.2997702,5G Network Slicing: A Security Overview,430.25363,2020,128
+https://doi.org/10.1109/cc.2017.8246328,Physical layer security with its applications in 5G networks: A review,343.5988,2017,136
+https://doi.org/10.3390/fi14040116,ML-Based 5G Network Slicing Security: A Comprehensive Survey,319.0441,2022,93
+https://doi.org/10.1109/access.2019.2899254,Security and Protocol Exploit Analysis of the 5G Specifications,295.82184,2019,103
+https://doi.org/10.1109/iccmc48092.2020.iccmc-00014,Network Slicing in 5G and the Security Concerns,252.9925,2020,39
+https://doi.org/10.1109/lwc.2021.3133479,DeepSecure: Detection of Distributed Denial of Service Attacks on 5G Network Slicing—Deep Learning Approach,236.19531,2021,65
+https://doi.org/10.1364/jocn.413918,5G network slicing with QKD and quantum-safe security,230.24442,2020,40
+https://doi.org/10.1109/access.2022.3222488,MSR-DoS: Modular Square Root-Based Scheme to Resist Denial of Service (DoS) Attacks in 5G-Enabled Vehicular Networks,223.73993,2022,51
+https://doi.org/10.1186/s13638-022-02204-5,Threatening the 5G core via PFCP DoS attacks: the case of blocking UAV communications,214.90604,2022,41
+https://doi.org/10.1109/access.2024.3386632,Security in 5G Network Slices: Concerns and Opportunities,204.63203,2024,27
+https://doi.org/10.1109/iccworkshops50388.2021.9473567,Adversarial Machine Learning for Flooding Attacks on 5G Radio Access Network Slicing,202.30136,2021,38
+https://doi.org/10.1109/infcomw.2019.8845312,Exploiting Multipath Terahertz Communications for Physical Layer Security in Beyond 5G Networks,201.93092,2019,68
+https://doi.org/10.1109/milcom55135.2022.10017474,Toward Zero Trust Security IN 5G Open Architecture Network Slices,197.50505,2022,35
+https://doi.org/10.1109/tnsm.2023.3254581,Reinforcement Learning-Based Slice Isolation Against DDoS Attacks in Beyond 5G Networks,197.1748,2023,39
+https://doi.org/10.1002/spe.2800,A real‐time attack defense framework for 5G network slicing,195.84746,2020,28
+https://doi.org/10.1109/fnwf55208.2022.00117,SliceSecure: Impact and Detection of DoS/DDoS Attacks on 5G Network Slices,191.98236,2022,30
+https://doi.org/10.1109/lnet.2020.3044642,Distributed Slice Mobility Attack: A Novel Targeted Attack Against Network Slices of 5G Networks,186.13966,2020,20
+https://doi.org/10.1109/access.2018.2815567,An Intra-Slice Security Solution for Emerging 5G Networks Based on Pseudo-Random Number Generators,182.19635,2018,39
+https://doi.org/10.1109/eucnc48522.2020.9200928,"AI-driven Zero-touch Operations, Security and Trust in Multi-operator 5G Networks: a Conceptual Architecture",177.40346,2020,45
+https://doi.org/10.1016/j.comnet.2022.109526,Distributed dual-layer autonomous closed loops for self-protection of 5G/6G IoT networks from distributed denial of service attacks,176.79265,2022,32
+https://doi.org/10.1016/j.iot.2019.100116,Lightweight privacy-preserving power injection and communication over vehicular networks and 5G smart grid slice with provable security,160.97238,2019,38
+https://doi.org/10.1109/secon55815.2022.9918536,Skunk — A Blockchain and Zero Trust Security Enabled Federated Learning Platform for 5G/6G Network Slicing,153.94046,2022,29
+https://doi.org/10.1109/compcomm.2017.8322724,5G network slice security trust degree calculation model,153.25298,2017,17
+https://doi.org/10.1002/dac.4825,Distributed denial‐of‐service attack mitigation in network functions virtualization‐based 5G networks using management and orchestration,152.02077,2021,15
+https://doi.org/10.1109/tnsm.2020.3035342,REPEL: A Strategic Approach for Defending 5G Control Plane From DDoS Signalling Attacks,148.70497,2020,23
+https://doi.org/10.1088/1757-899x/993/1/012060,A Canvass of 5G Network Slicing: Architecture and Security Concern,145.16591,2020,13
+https://doi.org/10.1007/s11276-019-02163-8,A Bayesian game model and network availability model for small cells under denial of service (DoS) attack in 5G wireless communication network,144.49818,2019,17
+https://doi.org/10.1109/cns.2019.8802852,Towards Secure Slicing: Using Slice Isolation to Mitigate DDoS Attacks on 5G Core Network Slices,143.25432,2019,14
+https://doi.org/10.1109/mce.2024.3353177,LSTM-Based Anomaly Detection of PFCP Signaling Attacks in 5G Networks,141.9015,2024,12
+https://doi.org/10.1109/ccnc51644.2023.10060402,Detection and Localization of DDoS Attack During Inter-Slice Handover in 5G Network Slicing,136.51347,2023,12
+https://doi.org/10.1109/tdsc.2020.2968885,Novel Protocols to Mitigate Network Slice Topology Learning Attacks and Protect Privacy of Users’ Service Access Behavior in Softwarized 5G Networks,136.25443,2020,23
+https://doi.org/10.1109/wcnc.2019.8885658,Security Considerations in 5G Networks: A Slice-Aware Trust Zone Approach,131.47627,2019,13
+https://doi.org/10.3390/bdcc7040169,Assessment of Security KPIs for 5G Network Slices for Special Groups of Subscribers,123.79293,2023,11
+https://doi.org/10.3390/electronics13101860,"Security Threats, Requirements and Recommendations on Creating 5G Network Slicing System: A Survey",121.572426,2024,12
+https://doi.org/10.1109/vtc2022-fall57202.2022.10012736,Federated Learning-based Inter-slice Attack Detection for 5G-V2X Sliced Networks,116.79374,2022,8
+https://doi.org/10.1007/s10207-024-00900-5,"Securing 5G virtual networks: a critical analysis of SDN, NFV, and network slicing security",116.59585,2024,10
+https://doi.org/10.1109/icaect60202.2024.10469006,Enhancing Security and Privacy Implications in 5G Network Slicing,114.94474,2024,7
+https://doi.org/10.1109/eucnc/6gsummit51104.2021.9482418,Distributed AI-based Security for Massive Numbers of Network Slices in 5G &amp; Beyond Mobile Systems,114.25477,2021,14
+https://doi.org/10.1109/vtc2022-spring54318.2022.9860373,Deep Learning-based Intra-slice Attack Detection for 5G-V2X Sliced Networks,111.035065,2022,7
+https://doi.org/10.3969/j.issn.1671-1122.2020.04.001,Research on 5G Network Slicing Security Model,107.03306,2020,5
+https://doi.org/10.1007/s10922-022-09695-z,Denial-of-Service Attack Mitigation in Multi-hop 5G D2D Wireless Communication Networks Employing Double Auction Game,103.43329,2022,7
+https://doi.org/10.1002/spy2.70039,A Security‐Aware Network Function Sharing Model for 5G Slicing,102.4899,2025,2
+https://doi.org/10.1016/j.jisa.2021.102943,Toward securing the control plane of 5G mobile networks against DoS threats: Attack scenarios and promising solutions,101.6251,2021,12
+https://doi.org/10.1109/tnsm.2023.3294568,When Two-Layer Federated Learning and Mean-Field Game Meet 5G and Beyond Security: Cooperative Defense Systems for 5G and Beyond Network Slicing,100.767975,2023,12
+https://doi.org/10.28945/4675,Implementing Security in IoT Ecosystem Using 5G Network Slicing and Pattern Matched Intrusion Detection System: A Simulation Study,99.84187,2021,12
+https://doi.org/10.1007/978-3-319-64653-4_10,Security Requirements for Multi-operator Virtualized Network and Service Orchestration for 5G,99.40288,2017,7
+https://doi.org/10.1049/cmu2.12735,Improved 5G network slicing for enhanced QoS against attack in SDN environment using deep learning,95.91233,2024,8
+https://doi.org/10.21203/rs.3.rs-1708948/v1,Threatening the 5G Core via PFCP DoS Attacks: The Case of Blocking UAV Communications,94.38011,2022,5
+https://doi.org/10.1109/milcom47813.2019.9020882,On the Application of Key-Based Physical Layer Security in 5G Heterogeneous Networks,94.25046,2019,7
+https://doi.org/10.1016/j.comcom.2024.107982,5G core network control plane: Network security challenges and solution requirements,94.1362,2024,7
+https://doi.org/10.1145/3643833.3656140,Performance Evaluation of Transport Layer Security in the 5G Core Control Plane,92.8584,2024,6
+https://doi.org/10.48550/arxiv.2303.03492,A Security-aware Network Function Sharing Model for 5G Slicing,89.71344,2023,4
+https://doi.org/10.1007/978-3-030-87049-2_28,5G Network Slicing Security,89.67568,2022,2
+https://doi.org/10.1109/idaacs58523.2023.10348871,Maximizing Security and Efficiency in 5G Networks by Means of Quantum Cryptography and Network Slicing Concepts,84.28989,2023,4
+https://doi.org/10.1109/isdfs60797.2024.10527324,Chaos-Based Stream Ciphers for 5G Inter-Slice Network Security,78.141205,2024,3
+https://doi.org/10.1007/s10922-023-09728-1,Assisted Monitoring and Security Provisioning for 5G Microservices-Based Network Slices with SWEETEN,74.44686,2023,3
+https://doi.org/10.1109/cbd58033.2022.00050,The Threat of Distributed Denial-of-Service Attack for User Equipment in 5G Networks,72.22056,2022,1
+https://doi.org/10.1016/s1353-4858(18)30098-9,Be ready to fight new 5G vulnerabilities,72.18269,2018,2
+https://doi.org/10.23919/spects52716.2021.9639276,Spoofed Networks: Exploitation of GNSS Security Vulnerability in 4G and 5G Mobile Networks,70.80819,2021,5
+https://doi.org/10.1109/icc45041.2023.10279621,A Novel AI Security Application Function of 5G Core Network for V2X C-ITS Facilities Layer,70.462234,2023,5
+https://doi.org/10.48550/arxiv.2101.08724,Adversarial Machine Learning for Flooding Attacks on 5G Radio Access Network Slicing,68.286446,2022,2
+https://doi.org/10.1109/iotm.0101.2000048,How to Exploit 5G Networks for IoT e-Health Security and Privacy Challenges,65.6329,2021,4
+https://doi.org/10.1007/978-3-031-72322-3_10,Security Elements and Threat Analysis of 5G Mobile Network Based on 3GPP 5G NR Standard,64.72421,2024,1
+https://doi.org/10.1109/nextcomp63004.2024.10779903,A Review of PFCP Cyber Attacks in 5G Standalone for Robotic Telesurgery Services,63.46199,2024,1
+https://doi.org/10.1109/sysose.2019.8753826,On the Application of MIMO Space-Time Coding to Physical Layer Security in sub-6 GHz 5G,61.893665,2019,3
+https://doi.org/10.1109/icct62411.2024.10946416,DNS Route Tampering Attack in 5G Application Layer,59.43427,2024,1
+https://doi.org/10.48550/arxiv.1901.01443,Towards Secure Slicing: Using Slice Isolation to Mitigate DDoS Attacks\n on 5G Core Network Slices,58.40265,2019,1
+https://doi.org/10.1109/ciot63799.2024.10757133,xApps for DDoS Attacks Detection and Mitigation in 5G-V2X O-RAN Networks,58.27697,2024,1
+https://doi.org/10.1109/apwcs61586.2024.10679311,Defending 5G Networks Against DDoS Attacks Using Quarantine Slice Manager Architecture,54.324753,2024,1
+https://doi.org/10.1007/s12083-024-01894-6,Distributed denial of service attack detection and mitigation strategy in 5G-enabled internet of things networks with adaptive cascaded gated recurrent unit,52.91691,2025,1
+https://doi.org/10.1109/wf-iot58464.2023.10539393,Physical Layer Security in a Private 5G Network for Industrial and Mobility Application,51.564034,2023,1
+,A game theory approach for protecting 5G control plane from DDoS signalling attacks,51.22582,2019,1
+https://doi.org/10.5829/ije.2025.38.08b.21,Detection and Prediction of Inter-Slice Handover DDoS Attacks in 5G and Beyond Networks Using P4 and Deep Learning,48.159733,2025,1
+https://doi.org/10.1109/milcom61039.2024.10773741,NReplay: 5G Key Reinstallation Attack Based on NAS Layer Vulnerabilities,47.91971,2024,1
+https://doi.org/10.1109/comsnets56262.2023.10041318,SENTINEL: Self Protecting 5G Core Control Plane from DDoS Attacks for High Availability Service,47.377766,2023,1
+https://doi.org/10.1109/infocomwkshps57453.2023.10225912,Vulnerability Exploit Pattern Generation and Analysis for proactive security risk mitigation for 5G networks,41.736565,2023,1
+https://doi.org/10.1109/nana60121.2023.00020,Formal Modeling and Defense Methods for 5G Network Endpoint Access Denial of Service Attacks,18.798561,2023,0
+https://doi.org/10.1201/9781003336860-7,Connectivity of Ad hoc 5G Wireless Networks under Denial of Service Attacks,17.274729,2022,0
+https://doi.org/10.21203/rs.3.rs-6449209/v1,Distributed Detection of DDoS Attack on 5G Network Slices,16.350416,2025,0
+https://doi.org/10.1007/978-3-030-73882-2_42,Security at the Application Layer and the Physical Layer in 5G,16.054512,2021,0
+https://doi.org/10.2139/ssrn.5189626,Mitigating Slice Vulnerabilities in 5g Core Networks: A Comprehensive Survey,15.646598,2025,0
+https://doi.org/10.1007/978-3-032-02831-0_13,Detecting and Mitigating Distributed Denial-of-Service (DDoS) Attacks in 5G Networks Using Artificial Intelligence Techniques,15.280964,2025,0
+https://doi.org/10.3390/s25133940,"5G Network Slicing: Security Challenges, Attack Vectors, and Mitigation Approaches",14.881779,2025,0
+https://doi.org/10.14445/23488379/ijeee-v12i8p123,Security Vulnerabilities and AI‐Driven Intrusion Detection in 5G Network Slicing Architectures,14.338732,2025,0
+https://doi.org/10.32604/cmes.2025.063558,Ensemble Encoder-Based Attack Traffic Classification for Secure 5G Slicing Networks,14.200679,2025,0
+https://doi.org/10.1109/cns66487.2025.11195053,Analysis of QoS Degradation Attacks in Multi-Slice Containerized 5G Core Networks,14.168018,2025,0
+https://doi.org/10.3390/a18070449,Detection Model for 5G Core PFCP DDoS Attacks Based on Sin-Cos-bIAVOA,14.041871,2025,0
+https://doi.org/10.2139/ssrn.5143340,A Dos Attack Against 5g-Based Iiot Networks Utilizing Standard Network Slicing Mechanisms,13.953298,2025,0
+https://doi.org/10.1109/jiot.2025.3611508,NGAP Features Fusion Hybrid Network Attack Detection for 5G Edge Security,13.890458,2025,0
+https://doi.org/10.1007/978-3-032-00624-0_7,Mitigation of PFCP Attacks in 5G Networks: Dynamic Defense Through Moving Target Defense and Honeynets,13.700637,2025,0
+https://doi.org/10.1109/globalaisummit62156.2024.10947868,NeuralGuard5G: Enhancing 5G Network Slice Security Against Distributed Denial of Service Attacks,13.585219,2024,0
+https://doi.org/10.1109/csr64739.2025.11130023,A Comprehensive 5G Dataset for Control and Data Plane Security and Resource Management,13.498413,2025,0
+https://doi.org/10.37934/araset.53.2.252262,Exploit Vulnerabilities in 4G and 5G Cellular Access Network,13.353163,2024,0
+https://doi.org/10.48550/arxiv.1809.06925,Security and Protocol Exploit Analysis of the 5G Specifications,13.244186,2022,0
+https://doi.org/10.48550/arxiv.2310.05525,Physical Layer Security in a Private 5G Network for Industrial and Mobility Application,12.925612,2023,0
+https://doi.org/10.21203/rs.3.rs-7604563/v1,A Novel Network Attack Detection Platform Targeting the Amf Component in the 5g Network Infrastructure,12.8033495,2025,0
+https://doi.org/10.15199/59.2025.4.36,MACHINE LEARNING BASED DETECTION OF ATTACKS AIMED AT THE PACKET FORWARDING CONTROL PROTOCOL WITHIN THE 5G CONTROL PLANE,12.255374,2025,0
+https://doi.org/10.1109/icpcsn65854.2025.11035191,Intelligent Detection System for SMF-AMF Stream Multiplexing Attacks in 5G-Enabled Smart Cities,12.112701,2025,0
+https://doi.org/10.1109/eucnc/6gsummit63408.2025.11036893,Identifying and Exploiting a Denial-Of-Service Vulnerability in the NGAP Protocol in 5G Networks,12.109386,2025,0
+https://doi.org/10.1007/s13748-025-00415-7,Fortifying 5G network slices using a trust-based secure federated learning framework for attack detection and classification,12.03039,2025,0
+https://doi.org/10.1007/978-3-031-53555-0_7,An Efficient Vulnerability Detection Method for 5G NAS Protocol Based on Combinatorial Testing,11.439956,2024,0
+https://doi.org/10.1109/mitp.2025.3545567,Exposing and Addressing Fake Base Station Vulnerabilities in 5G Through User Device Exploits,11.047419,2025,0
+https://doi.org/10.1109/coins65080.2025.11125746,Exploiting DCI Leakage: A Stealthy 5G Uplink Jamming Attack Using Compromised UE,11.016691,2025,0
+https://doi.org/10.1002/spy2.70108,Proposing a Cross‐Level Deep Neural Denial of Service/Distributed Denial of Service Attacks Detection in <scp>5G</scp> Network Slicing,10.852425,2025,0

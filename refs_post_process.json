@@ -1,0 +1,873 @@
+{
+    "5G attacks endpoint denial of service": [
+        {
+            "doi": "https://doi.org/10.1109/nana60121.2023.00020",
+            "title": "Formal Modeling and Defense Methods for 5G Network Endpoint Access Denial of Service Attacks",
+            "relevance_score": 18.798561,
+            "publication_year": 2023,
+            "cited_by_count": 0
+        }
+    ],
+    "5G security operator network": [
+        {
+            "doi": "https://doi.org/10.1109/eucnc48522.2020.9200928",
+            "title": "AI-driven Zero-touch Operations, Security and Trust in Multi-operator 5G Networks: a Conceptual Architecture",
+            "relevance_score": 177.40346,
+            "publication_year": 2020,
+            "cited_by_count": 45
+        },
+        {
+            "doi": "https://doi.org/10.1007/978-3-319-64653-4_10",
+            "title": "Security Requirements for Multi-operator Virtualized Network and Service Orchestration for 5G",
+            "relevance_score": 99.40288,
+            "publication_year": 2017,
+            "cited_by_count": 7
+        }
+    ],
+    "5G attacks xapp": [
+        {
+            "doi": "https://doi.org/10.1109/ciot63799.2024.10757133",
+            "title": "xApps for DDoS Attacks Detection and Mitigation in 5G-V2X O-RAN Networks",
+            "relevance_score": 58.27697,
+            "publication_year": 2024,
+            "cited_by_count": 1
+        }
+    ],
+    "5G security application layer": [
+        {
+            "doi": "https://doi.org/10.1109/cc.2017.8246328",
+            "title": "Physical layer security with its applications in 5G networks: A review",
+            "relevance_score": 343.5988,
+            "publication_year": 2017,
+            "cited_by_count": 136
+        },
+        {
+            "doi": "https://doi.org/10.1109/milcom47813.2019.9020882",
+            "title": "On the Application of Key-Based Physical Layer Security in 5G Heterogeneous Networks",
+            "relevance_score": 94.25046,
+            "publication_year": 2019,
+            "cited_by_count": 7
+        },
+        {
+            "doi": "https://doi.org/10.1109/icc45041.2023.10279621",
+            "title": "A Novel AI Security Application Function of 5G Core Network for V2X C-ITS Facilities Layer",
+            "relevance_score": 70.462234,
+            "publication_year": 2023,
+            "cited_by_count": 5
+        },
+        {
+            "doi": "https://doi.org/10.1109/sysose.2019.8753826",
+            "title": "On the Application of MIMO Space-Time Coding to Physical Layer Security in sub-6 GHz 5G",
+            "relevance_score": 61.893665,
+            "publication_year": 2019,
+            "cited_by_count": 3
+        },
+        {
+            "doi": "https://doi.org/10.1109/wf-iot58464.2023.10539393",
+            "title": "Physical Layer Security in a Private 5G Network for Industrial and Mobility Application",
+            "relevance_score": 51.564034,
+            "publication_year": 2023,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.1007/978-3-030-73882-2_42",
+            "title": "Security at the Application Layer and the Physical Layer in 5G",
+            "relevance_score": 16.054512,
+            "publication_year": 2021,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.48550/arxiv.2310.05525",
+            "title": "Physical Layer Security in a Private 5G Network for Industrial and Mobility Application",
+            "relevance_score": 12.925612,
+            "publication_year": 2023,
+            "cited_by_count": 0
+        }
+    ],
+    "5G attacks application layer": [
+        {
+            "doi": "https://doi.org/10.1109/icct62411.2024.10946416",
+            "title": "DNS Route Tampering Attack in 5G Application Layer",
+            "relevance_score": 59.43427,
+            "publication_year": 2024,
+            "cited_by_count": 1
+        }
+    ],
+    "5G security control plane": [
+        {
+            "doi": "https://doi.org/10.1016/j.comcom.2024.107982",
+            "title": "5G core network control plane: Network security challenges and solution requirements",
+            "relevance_score": 94.1362,
+            "publication_year": 2024,
+            "cited_by_count": 7
+        },
+        {
+            "doi": "https://doi.org/10.1145/3643833.3656140",
+            "title": "Performance Evaluation of Transport Layer Security in the 5G Core Control Plane",
+            "relevance_score": 92.8584,
+            "publication_year": 2024,
+            "cited_by_count": 6
+        },
+        {
+            "doi": "https://doi.org/10.1109/csr64739.2025.11130023",
+            "title": "A Comprehensive 5G Dataset for Control and Data Plane Security and Resource Management",
+            "relevance_score": 13.498413,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G attacks control plane": [
+        {
+            "doi": "https://doi.org/10.1109/tnsm.2020.3035342",
+            "title": "REPEL: A Strategic Approach for Defending 5G Control Plane From DDoS Signalling Attacks",
+            "relevance_score": 148.70497,
+            "publication_year": 2020,
+            "cited_by_count": 23
+        },
+        {
+            "doi": "https://doi.org/10.1016/j.jisa.2021.102943",
+            "title": "Toward securing the control plane of 5G mobile networks against DoS threats: Attack scenarios and promising solutions",
+            "relevance_score": 101.6251,
+            "publication_year": 2021,
+            "cited_by_count": 12
+        },
+        {
+            "doi": null,
+            "title": "A game theory approach for protecting 5G control plane from DDoS signalling attacks",
+            "relevance_score": 51.22582,
+            "publication_year": 2019,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.1109/comsnets56262.2023.10041318",
+            "title": "SENTINEL: Self Protecting 5G Core Control Plane from DDoS Attacks for High Availability Service",
+            "relevance_score": 47.377766,
+            "publication_year": 2023,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.15199/59.2025.4.36",
+            "title": "MACHINE LEARNING BASED DETECTION OF ATTACKS AIMED AT THE PACKET FORWARDING CONTROL PROTOCOL WITHIN THE 5G CONTROL PLANE",
+            "relevance_score": 12.255374,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G security network slice": [
+        {
+            "doi": "https://doi.org/10.1109/access.2020.2997702",
+            "title": "5G Network Slicing: A Security Overview",
+            "relevance_score": 430.25363,
+            "publication_year": 2020,
+            "cited_by_count": 128
+        },
+        {
+            "doi": "https://doi.org/10.3390/fi14040116",
+            "title": "ML-Based 5G Network Slicing Security: A Comprehensive Survey",
+            "relevance_score": 319.0441,
+            "publication_year": 2022,
+            "cited_by_count": 93
+        },
+        {
+            "doi": "https://doi.org/10.1109/iccmc48092.2020.iccmc-00014",
+            "title": "Network Slicing in 5G and the Security Concerns",
+            "relevance_score": 252.9925,
+            "publication_year": 2020,
+            "cited_by_count": 39
+        },
+        {
+            "doi": "https://doi.org/10.1364/jocn.413918",
+            "title": "5G network slicing with QKD and quantum-safe security",
+            "relevance_score": 230.24442,
+            "publication_year": 2020,
+            "cited_by_count": 40
+        },
+        {
+            "doi": "https://doi.org/10.1109/access.2024.3386632",
+            "title": "Security in 5G Network Slices: Concerns and Opportunities",
+            "relevance_score": 204.63203,
+            "publication_year": 2024,
+            "cited_by_count": 27
+        },
+        {
+            "doi": "https://doi.org/10.1109/milcom55135.2022.10017474",
+            "title": "Toward Zero Trust Security IN 5G Open Architecture Network Slices",
+            "relevance_score": 197.50505,
+            "publication_year": 2022,
+            "cited_by_count": 35
+        },
+        {
+            "doi": "https://doi.org/10.1109/access.2018.2815567",
+            "title": "An Intra-Slice Security Solution for Emerging 5G Networks Based on Pseudo-Random Number Generators",
+            "relevance_score": 182.19635,
+            "publication_year": 2018,
+            "cited_by_count": 39
+        },
+        {
+            "doi": "https://doi.org/10.1016/j.iot.2019.100116",
+            "title": "Lightweight privacy-preserving power injection and communication over vehicular networks and 5G smart grid slice with provable security",
+            "relevance_score": 160.97238,
+            "publication_year": 2019,
+            "cited_by_count": 38
+        },
+        {
+            "doi": "https://doi.org/10.1109/secon55815.2022.9918536",
+            "title": "Skunk \u2014 A Blockchain and Zero Trust Security Enabled Federated Learning Platform for 5G/6G Network Slicing",
+            "relevance_score": 153.94046,
+            "publication_year": 2022,
+            "cited_by_count": 29
+        },
+        {
+            "doi": "https://doi.org/10.1109/compcomm.2017.8322724",
+            "title": "5G network slice security trust degree calculation model",
+            "relevance_score": 153.25298,
+            "publication_year": 2017,
+            "cited_by_count": 17
+        },
+        {
+            "doi": "https://doi.org/10.1088/1757-899x/993/1/012060",
+            "title": "A Canvass of 5G Network Slicing: Architecture and Security Concern",
+            "relevance_score": 145.16591,
+            "publication_year": 2020,
+            "cited_by_count": 13
+        },
+        {
+            "doi": "https://doi.org/10.1109/wcnc.2019.8885658",
+            "title": "Security Considerations in 5G Networks: A Slice-Aware Trust Zone Approach",
+            "relevance_score": 131.47627,
+            "publication_year": 2019,
+            "cited_by_count": 13
+        },
+        {
+            "doi": "https://doi.org/10.3390/bdcc7040169",
+            "title": "Assessment of Security KPIs for 5G Network Slices for Special Groups of Subscribers",
+            "relevance_score": 123.79293,
+            "publication_year": 2023,
+            "cited_by_count": 11
+        },
+        {
+            "doi": "https://doi.org/10.3390/electronics13101860",
+            "title": "Security Threats, Requirements and Recommendations on Creating 5G Network Slicing System: A Survey",
+            "relevance_score": 121.572426,
+            "publication_year": 2024,
+            "cited_by_count": 12
+        },
+        {
+            "doi": "https://doi.org/10.1007/s10207-024-00900-5",
+            "title": "Securing 5G virtual networks: a critical analysis of SDN, NFV, and network slicing security",
+            "relevance_score": 116.59585,
+            "publication_year": 2024,
+            "cited_by_count": 10
+        },
+        {
+            "doi": "https://doi.org/10.1109/icaect60202.2024.10469006",
+            "title": "Enhancing Security and Privacy Implications in 5G Network Slicing",
+            "relevance_score": 114.94474,
+            "publication_year": 2024,
+            "cited_by_count": 7
+        },
+        {
+            "doi": "https://doi.org/10.1109/eucnc/6gsummit51104.2021.9482418",
+            "title": "Distributed AI-based Security for Massive Numbers of Network Slices in 5G &amp; Beyond Mobile Systems",
+            "relevance_score": 114.25477,
+            "publication_year": 2021,
+            "cited_by_count": 14
+        },
+        {
+            "doi": "https://doi.org/10.3969/j.issn.1671-1122.2020.04.001",
+            "title": "Research on 5G Network Slicing Security Model",
+            "relevance_score": 107.03306,
+            "publication_year": 2020,
+            "cited_by_count": 5
+        },
+        {
+            "doi": "https://doi.org/10.1109/tnsm.2023.3294568",
+            "title": "When Two-Layer Federated Learning and Mean-Field Game Meet 5G and Beyond Security: Cooperative Defense Systems for 5G and Beyond Network Slicing",
+            "relevance_score": 100.767975,
+            "publication_year": 2023,
+            "cited_by_count": 12
+        },
+        {
+            "doi": "https://doi.org/10.28945/4675",
+            "title": "Implementing Security in IoT Ecosystem Using 5G Network Slicing and Pattern Matched Intrusion Detection System: A Simulation Study",
+            "relevance_score": 99.84187,
+            "publication_year": 2021,
+            "cited_by_count": 12
+        },
+        {
+            "doi": "https://doi.org/10.48550/arxiv.2303.03492",
+            "title": "A Security-aware Network Function Sharing Model for 5G Slicing",
+            "relevance_score": 89.71344,
+            "publication_year": 2023,
+            "cited_by_count": 4
+        },
+        {
+            "doi": "https://doi.org/10.1007/978-3-030-87049-2_28",
+            "title": "5G Network Slicing Security",
+            "relevance_score": 89.67568,
+            "publication_year": 2022,
+            "cited_by_count": 2
+        },
+        {
+            "doi": "https://doi.org/10.1109/idaacs58523.2023.10348871",
+            "title": "Maximizing Security and Efficiency in 5G Networks by Means of Quantum Cryptography and Network Slicing Concepts",
+            "relevance_score": 84.28989,
+            "publication_year": 2023,
+            "cited_by_count": 4
+        },
+        {
+            "doi": "https://doi.org/10.1109/isdfs60797.2024.10527324",
+            "title": "Chaos-Based Stream Ciphers for 5G Inter-Slice Network Security",
+            "relevance_score": 78.141205,
+            "publication_year": 2024,
+            "cited_by_count": 3
+        },
+        {
+            "doi": "https://doi.org/10.1007/s10922-023-09728-1",
+            "title": "Assisted Monitoring and Security Provisioning for 5G Microservices-Based Network Slices with SWEETEN",
+            "relevance_score": 74.44686,
+            "publication_year": 2023,
+            "cited_by_count": 3
+        }
+    ],
+    "5G vulnerabilities network slice": [
+        {
+            "doi": "https://doi.org/10.2139/ssrn.5189626",
+            "title": "Mitigating Slice Vulnerabilities in 5g Core Networks: A Comprehensive Survey",
+            "relevance_score": 15.646598,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.14445/23488379/ijeee-v12i8p123",
+            "title": "Security Vulnerabilities and AI\u2010Driven Intrusion Detection in 5G Network Slicing Architectures",
+            "relevance_score": 14.338732,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G attacks network slice": [
+        {
+            "doi": "https://doi.org/10.1109/lwc.2021.3133479",
+            "title": "DeepSecure: Detection of Distributed Denial of Service Attacks on 5G Network Slicing\u2014Deep Learning Approach",
+            "relevance_score": 236.19531,
+            "publication_year": 2021,
+            "cited_by_count": 65
+        },
+        {
+            "doi": "https://doi.org/10.1109/iccworkshops50388.2021.9473567",
+            "title": "Adversarial Machine Learning for Flooding Attacks on 5G Radio Access Network Slicing",
+            "relevance_score": 202.30136,
+            "publication_year": 2021,
+            "cited_by_count": 38
+        },
+        {
+            "doi": "https://doi.org/10.1109/tnsm.2023.3254581",
+            "title": "Reinforcement Learning-Based Slice Isolation Against DDoS Attacks in Beyond 5G Networks",
+            "relevance_score": 197.1748,
+            "publication_year": 2023,
+            "cited_by_count": 39
+        },
+        {
+            "doi": "https://doi.org/10.1002/spe.2800",
+            "title": "A real\u2010time attack defense framework for 5G network slicing",
+            "relevance_score": 195.84746,
+            "publication_year": 2020,
+            "cited_by_count": 28
+        },
+        {
+            "doi": "https://doi.org/10.1109/fnwf55208.2022.00117",
+            "title": "SliceSecure: Impact and Detection of DoS/DDoS Attacks on 5G Network Slices",
+            "relevance_score": 191.98236,
+            "publication_year": 2022,
+            "cited_by_count": 30
+        },
+        {
+            "doi": "https://doi.org/10.1109/lnet.2020.3044642",
+            "title": "Distributed Slice Mobility Attack: A Novel Targeted Attack Against Network Slices of 5G Networks",
+            "relevance_score": 186.13966,
+            "publication_year": 2020,
+            "cited_by_count": 20
+        },
+        {
+            "doi": null,
+            "title": "How to Attack and Defend 5G Radio Access Network Slicing with Reinforcement Learning.",
+            "relevance_score": 154.7803,
+            "publication_year": 2021,
+            "cited_by_count": 20
+        },
+        {
+            "doi": "https://doi.org/10.1109/cns.2019.8802852",
+            "title": "Towards Secure Slicing: Using Slice Isolation to Mitigate DDoS Attacks on 5G Core Network Slices",
+            "relevance_score": 143.25432,
+            "publication_year": 2019,
+            "cited_by_count": 14
+        },
+        {
+            "doi": "https://doi.org/10.1109/ccnc51644.2023.10060402",
+            "title": "Detection and Localization of DDoS Attack During Inter-Slice Handover in 5G Network Slicing",
+            "relevance_score": 136.51347,
+            "publication_year": 2023,
+            "cited_by_count": 12
+        },
+        {
+            "doi": "https://doi.org/10.1109/tdsc.2020.2968885",
+            "title": "Novel Protocols to Mitigate Network Slice Topology Learning Attacks and Protect Privacy of Users\u2019 Service Access Behavior in Softwarized 5G Networks",
+            "relevance_score": 136.25443,
+            "publication_year": 2020,
+            "cited_by_count": 23
+        },
+        {
+            "doi": "https://doi.org/10.1109/vtc2022-fall57202.2022.10012736",
+            "title": "Federated Learning-based Inter-slice Attack Detection for 5G-V2X Sliced Networks",
+            "relevance_score": 116.79374,
+            "publication_year": 2022,
+            "cited_by_count": 8
+        },
+        {
+            "doi": "https://doi.org/10.1109/vtc2022-spring54318.2022.9860373",
+            "title": "Deep Learning-based Intra-slice Attack Detection for 5G-V2X Sliced Networks",
+            "relevance_score": 111.035065,
+            "publication_year": 2022,
+            "cited_by_count": 7
+        },
+        {
+            "doi": "https://doi.org/10.1049/cmu2.12735",
+            "title": "Improved 5G network slicing for enhanced QoS against attack in SDN environment using deep learning",
+            "relevance_score": 95.91233,
+            "publication_year": 2024,
+            "cited_by_count": 8
+        },
+        {
+            "doi": "https://doi.org/10.48550/arxiv.2101.08724",
+            "title": "Adversarial Machine Learning for Flooding Attacks on 5G Radio Access Network Slicing",
+            "relevance_score": 68.286446,
+            "publication_year": 2022,
+            "cited_by_count": 2
+        },
+        {
+            "doi": "https://doi.org/10.48550/arxiv.1901.01443",
+            "title": "Towards Secure Slicing: Using Slice Isolation to Mitigate DDoS Attacks\\n on 5G Core Network Slices",
+            "relevance_score": 58.40265,
+            "publication_year": 2019,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.1109/apwcs61586.2024.10679311",
+            "title": "Defending 5G Networks Against DDoS Attacks Using Quarantine Slice Manager Architecture",
+            "relevance_score": 54.324753,
+            "publication_year": 2024,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.5829/ije.2025.38.08b.21",
+            "title": "Detection and Prediction of Inter-Slice Handover DDoS Attacks in 5G and Beyond Networks Using P4 and Deep Learning",
+            "relevance_score": 48.159733,
+            "publication_year": 2025,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.21203/rs.3.rs-6449209/v1",
+            "title": "Distributed Detection of DDoS Attack on 5G Network Slices",
+            "relevance_score": 16.350416,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.3390/s25133940",
+            "title": "5G Network Slicing: Security Challenges, Attack Vectors, and Mitigation Approaches",
+            "relevance_score": 14.881779,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.32604/cmes.2025.063558",
+            "title": "Ensemble Encoder-Based Attack Traffic Classification for Secure 5G Slicing Networks",
+            "relevance_score": 14.200679,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1109/cns66487.2025.11195053",
+            "title": "Analysis of QoS Degradation Attacks in Multi-Slice Containerized 5G Core Networks",
+            "relevance_score": 14.168018,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.2139/ssrn.5143340",
+            "title": "A Dos Attack Against 5g-Based Iiot Networks Utilizing Standard Network Slicing Mechanisms",
+            "relevance_score": 13.953298,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1109/globalaisummit62156.2024.10947868",
+            "title": "NeuralGuard5G: Enhancing 5G Network Slice Security Against Distributed Denial of Service Attacks",
+            "relevance_score": 13.585219,
+            "publication_year": 2024,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1007/s13748-025-00415-7",
+            "title": "Fortifying 5G network slices using a trust-based secure federated learning framework for attack detection and classification",
+            "relevance_score": 12.03039,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1002/spy2.70108",
+            "title": "Proposing a Cross\u2010Level Deep Neural Denial of Service/Distributed Denial of Service Attacks Detection in <scp>5G</scp> Network Slicing",
+            "relevance_score": 10.852425,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G security shared network function in slice": [
+        {
+            "doi": "https://doi.org/10.48550/arxiv.2303.03492",
+            "title": "A Security-aware Network Function Sharing Model for 5G Slicing",
+            "relevance_score": 127.561676,
+            "publication_year": 2023,
+            "cited_by_count": 4
+        },
+        {
+            "doi": "https://doi.org/10.1002/spy2.70039",
+            "title": "A Security\u2010Aware Network Function Sharing Model for 5G Slicing",
+            "relevance_score": 102.4899,
+            "publication_year": 2025,
+            "cited_by_count": 2
+        }
+    ],
+    "5G security exploits": [
+        {
+            "doi": "https://doi.org/10.1109/access.2019.2899254",
+            "title": "Security and Protocol Exploit Analysis of the 5G Specifications",
+            "relevance_score": 295.82184,
+            "publication_year": 2019,
+            "cited_by_count": 103
+        },
+        {
+            "doi": "https://doi.org/10.1109/infcomw.2019.8845312",
+            "title": "Exploiting Multipath Terahertz Communications for Physical Layer Security in Beyond 5G Networks",
+            "relevance_score": 201.93092,
+            "publication_year": 2019,
+            "cited_by_count": 68
+        },
+        {
+            "doi": "https://doi.org/10.23919/spects52716.2021.9639276",
+            "title": "Spoofed Networks: Exploitation of GNSS Security Vulnerability in 4G and 5G Mobile Networks",
+            "relevance_score": 70.80819,
+            "publication_year": 2021,
+            "cited_by_count": 5
+        },
+        {
+            "doi": "https://doi.org/10.1109/iotm.0101.2000048",
+            "title": "How to Exploit 5G Networks for IoT e-Health Security and Privacy Challenges",
+            "relevance_score": 65.6329,
+            "publication_year": 2021,
+            "cited_by_count": 4
+        },
+        {
+            "doi": "https://doi.org/10.1109/infocomwkshps57453.2023.10225912",
+            "title": "Vulnerability Exploit Pattern Generation and Analysis for proactive security risk mitigation for 5G networks",
+            "relevance_score": 41.736565,
+            "publication_year": 2023,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.48550/arxiv.1809.06925",
+            "title": "Security and Protocol Exploit Analysis of the 5G Specifications",
+            "relevance_score": 13.244186,
+            "publication_year": 2022,
+            "cited_by_count": 0
+        }
+    ],
+    "5G vulnerabilities exploits": [
+        {
+            "doi": "https://doi.org/10.23919/spects52716.2021.9639276",
+            "title": "Spoofed Networks: Exploitation of GNSS Security Vulnerability in 4G and 5G Mobile Networks",
+            "relevance_score": 75.010635,
+            "publication_year": 2021,
+            "cited_by_count": 5
+        },
+        {
+            "doi": "https://doi.org/10.1109/infocomwkshps57453.2023.10225912",
+            "title": "Vulnerability Exploit Pattern Generation and Analysis for proactive security risk mitigation for 5G networks",
+            "relevance_score": 44.200043,
+            "publication_year": 2023,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.37934/araset.53.2.252262",
+            "title": "Exploit Vulnerabilities in 4G and 5G Cellular Access Network",
+            "relevance_score": 13.353163,
+            "publication_year": 2024,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1109/eucnc/6gsummit63408.2025.11036893",
+            "title": "Identifying and Exploiting a Denial-Of-Service Vulnerability in the NGAP Protocol in 5G Networks",
+            "relevance_score": 12.109386,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1109/mitp.2025.3545567",
+            "title": "Exposing and Addressing Fake Base Station Vulnerabilities in 5G Through User Device Exploits",
+            "relevance_score": 11.047419,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G attacks exploits": [
+        {
+            "doi": "https://doi.org/10.1109/coins65080.2025.11125746",
+            "title": "Exploiting DCI Leakage: A Stealthy 5G Uplink Jamming Attack Using Compromised UE",
+            "relevance_score": 11.016691,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G attacks amf": [
+        {
+            "doi": "https://doi.org/10.21203/rs.3.rs-7604563/v1",
+            "title": "A Novel Network Attack Detection Platform Targeting the Amf Component in the 5g Network Infrastructure",
+            "relevance_score": 12.8033495,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1109/icpcsn65854.2025.11035191",
+            "title": "Intelligent Detection System for SMF-AMF Stream Multiplexing Attacks in 5G-Enabled Smart Cities",
+            "relevance_score": 12.112701,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G security network denial of service": [
+        {
+            "doi": "https://doi.org/10.1109/globalaisummit62156.2024.10947868",
+            "title": "NeuralGuard5G: Enhancing 5G Network Slice Security Against Distributed Denial of Service Attacks",
+            "relevance_score": 16.054588,
+            "publication_year": 2024,
+            "cited_by_count": 0
+        }
+    ],
+    "5G vulnerabilities network denial of service": [
+        {
+            "doi": "https://doi.org/10.1109/eucnc/6gsummit63408.2025.11036893",
+            "title": "Identifying and Exploiting a Denial-Of-Service Vulnerability in the NGAP Protocol in 5G Networks",
+            "relevance_score": 18.228771,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G attacks network denial of service": [
+        {
+            "doi": "https://doi.org/10.1109/lwc.2021.3133479",
+            "title": "DeepSecure: Detection of Distributed Denial of Service Attacks on 5G Network Slicing\u2014Deep Learning Approach",
+            "relevance_score": 288.6394,
+            "publication_year": 2021,
+            "cited_by_count": 65
+        },
+        {
+            "doi": "https://doi.org/10.1109/access.2022.3222488",
+            "title": "MSR-DoS: Modular Square Root-Based Scheme to Resist Denial of Service (DoS) Attacks in 5G-Enabled Vehicular Networks",
+            "relevance_score": 223.73993,
+            "publication_year": 2022,
+            "cited_by_count": 51
+        },
+        {
+            "doi": "https://doi.org/10.1016/j.comnet.2022.109526",
+            "title": "Distributed dual-layer autonomous closed loops for self-protection of 5G/6G IoT networks from distributed denial of service attacks",
+            "relevance_score": 176.79265,
+            "publication_year": 2022,
+            "cited_by_count": 32
+        },
+        {
+            "doi": "https://doi.org/10.1002/dac.4825",
+            "title": "Distributed denial\u2010of\u2010service attack mitigation in network functions virtualization\u2010based 5G networks using management and orchestration",
+            "relevance_score": 152.02077,
+            "publication_year": 2021,
+            "cited_by_count": 15
+        },
+        {
+            "doi": "https://doi.org/10.1007/s11276-019-02163-8",
+            "title": "A Bayesian game model and network availability model for small cells under denial of service (DoS) attack in 5G wireless communication network",
+            "relevance_score": 144.49818,
+            "publication_year": 2019,
+            "cited_by_count": 17
+        },
+        {
+            "doi": "https://doi.org/10.1007/s10922-022-09695-z",
+            "title": "Denial-of-Service Attack Mitigation in Multi-hop 5G D2D Wireless Communication Networks Employing Double Auction Game",
+            "relevance_score": 103.43329,
+            "publication_year": 2022,
+            "cited_by_count": 7
+        },
+        {
+            "doi": "https://doi.org/10.1109/cbd58033.2022.00050",
+            "title": "The Threat of Distributed Denial-of-Service Attack for User Equipment in 5G Networks",
+            "relevance_score": 72.22056,
+            "publication_year": 2022,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.1007/s12083-024-01894-6",
+            "title": "Distributed denial of service attack detection and mitigation strategy in 5G-enabled internet of things networks with adaptive cascaded gated recurrent unit",
+            "relevance_score": 52.91691,
+            "publication_year": 2025,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.1201/9781003336860-7",
+            "title": "Connectivity of Ad hoc 5G Wireless Networks under Denial of Service Attacks",
+            "relevance_score": 17.274729,
+            "publication_year": 2022,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1109/globalaisummit62156.2024.10947868",
+            "title": "NeuralGuard5G: Enhancing 5G Network Slice Security Against Distributed Denial of Service Attacks",
+            "relevance_score": 16.578838,
+            "publication_year": 2024,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1109/nana60121.2023.00020",
+            "title": "Formal Modeling and Defense Methods for 5G Network Endpoint Access Denial of Service Attacks",
+            "relevance_score": 16.531301,
+            "publication_year": 2023,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1002/spy2.70108",
+            "title": "Proposing a Cross\u2010Level Deep Neural Denial of Service/Distributed Denial of Service Attacks Detection in <scp>5G</scp> Network Slicing",
+            "relevance_score": 16.020073,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1007/978-3-032-02831-0_13",
+            "title": "Detecting and Mitigating Distributed Denial-of-Service (DDoS) Attacks in 5G Networks Using Artificial Intelligence Techniques",
+            "relevance_score": 15.280964,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G attacks pfcp": [
+        {
+            "doi": "https://doi.org/10.1186/s13638-022-02204-5",
+            "title": "Threatening the 5G core via PFCP DoS attacks: the case of blocking UAV communications",
+            "relevance_score": 214.90604,
+            "publication_year": 2022,
+            "cited_by_count": 41
+        },
+        {
+            "doi": "https://doi.org/10.1109/mce.2024.3353177",
+            "title": "LSTM-Based Anomaly Detection of PFCP Signaling Attacks in 5G Networks",
+            "relevance_score": 141.9015,
+            "publication_year": 2024,
+            "cited_by_count": 12
+        },
+        {
+            "doi": "https://doi.org/10.21203/rs.3.rs-1708948/v1",
+            "title": "Threatening the 5G Core via PFCP DoS Attacks: The Case of Blocking UAV Communications",
+            "relevance_score": 94.38011,
+            "publication_year": 2022,
+            "cited_by_count": 5
+        },
+        {
+            "doi": "https://doi.org/10.1109/nextcomp63004.2024.10779903",
+            "title": "A Review of PFCP Cyber Attacks in 5G Standalone for Robotic Telesurgery Services",
+            "relevance_score": 63.46199,
+            "publication_year": 2024,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.3390/a18070449",
+            "title": "Detection Model for 5G Core PFCP DDoS Attacks Based on Sin-Cos-bIAVOA",
+            "relevance_score": 14.041871,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        },
+        {
+            "doi": "https://doi.org/10.1007/978-3-032-00624-0_7",
+            "title": "Mitigation of\u00a0PFCP Attacks in\u00a05G Networks: Dynamic Defense Through Moving Target Defense and\u00a0Honeynets",
+            "relevance_score": 13.700637,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G security ngap": [
+        {
+            "doi": "https://doi.org/10.1109/jiot.2025.3611508",
+            "title": "NGAP Features Fusion Hybrid Network Attack Detection for 5G Edge Security",
+            "relevance_score": 13.890458,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G vulnerabilities ngap": [
+        {
+            "doi": "https://doi.org/10.1109/eucnc/6gsummit63408.2025.11036893",
+            "title": "Identifying and Exploiting a Denial-Of-Service Vulnerability in the NGAP Protocol in 5G Networks",
+            "relevance_score": 14.916534,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G attacks ngap": [
+        {
+            "doi": "https://doi.org/10.1109/jiot.2025.3611508",
+            "title": "NGAP Features Fusion Hybrid Network Attack Detection for 5G Edge Security",
+            "relevance_score": 14.422748,
+            "publication_year": 2025,
+            "cited_by_count": 0
+        }
+    ],
+    "5G vulnerabilities nas": [
+        {
+            "doi": "https://doi.org/10.1109/milcom61039.2024.10773741",
+            "title": "NReplay: 5G Key Reinstallation Attack Based on NAS Layer Vulnerabilities",
+            "relevance_score": 47.91971,
+            "publication_year": 2024,
+            "cited_by_count": 1
+        },
+        {
+            "doi": "https://doi.org/10.1007/978-3-031-53555-0_7",
+            "title": "An Efficient Vulnerability Detection Method for\u00a05G NAS Protocol Based on\u00a0Combinatorial Testing",
+            "relevance_score": 11.439956,
+            "publication_year": 2024,
+            "cited_by_count": 0
+        }
+    ],
+    "5G attacks nas": [
+        {
+            "doi": "https://doi.org/10.1109/milcom61039.2024.10773741",
+            "title": "NReplay: 5G Key Reinstallation Attack Based on NAS Layer Vulnerabilities",
+            "relevance_score": 47.419205,
+            "publication_year": 2024,
+            "cited_by_count": 1
+        }
+    ],
+    "5G security 3GPP standard": [
+        {
+            "doi": "https://doi.org/10.1007/978-3-031-72322-3_10",
+            "title": "Security Elements and Threat Analysis of 5G Mobile Network Based on 3GPP 5G NR Standard",
+            "relevance_score": 64.72421,
+            "publication_year": 2024,
+            "cited_by_count": 1
+        }
+    ],
+    "5G vulnerabilities FIGHT": [
+        {
+            "doi": "https://doi.org/10.1016/s1353-4858(18)30098-9",
+            "title": "Be ready to fight new 5G vulnerabilities",
+            "relevance_score": 72.18269,
+            "publication_year": 2018,
+            "cited_by_count": 2
+        }
+    ]
+}
